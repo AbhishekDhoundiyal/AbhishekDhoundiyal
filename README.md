@@ -11,7 +11,7 @@ finding the edge cases, and building the whole thing: agents, backend and cloud.
 - **[PartyHub](https://partyhub.ai/)**: event marketplace. Recommendation system, location-based search
   and AI-assisted provider onboarding.
 - **[HiMarket](https://himarketstores.com/)**: multi-store platform built on Next.js and Sanity CMS.
-- **[Seowind](https://seowind.io/)**: agentic workflows for content publishing.
+- **[Seowind](https://seowind.io/)**: internal agentic workflows for content publishing.
 
 ### What I work with
 
